@@ -23,7 +23,7 @@
 
 ## 2.	SCHEMA CONCEPTUALA REALIZATĂ CU AJUTORUL ERD-ULUI
 
-![](https://github.com/NBristena/prbd_firma-constructii/blob/master/erd.jpg =520x798)
+![](https://github.com/NBristena/prbd_firma-constructii/blob/master/erd.jpg)
 
 
 ## 3.	SISTEMUL CONCEPTUAL TRANSFORMAT ÎNTR-UN DESIGN LOGIC (MAPARE)
