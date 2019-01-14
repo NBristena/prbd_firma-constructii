@@ -1,7 +1,8 @@
 # PROIECTAREA BAZELOR DE DATE - FIRMA DE CONSTRUCTII
-
 ###
-### 1.	SCURTĂ PREZENTARE A BAZEI DE DATE
+###
+
+## 1.	SCURTĂ PREZENTARE A BAZEI DE DATE
 
 ##### Această bază de date este folosită pentru a manageria o firma de construcţii care oferă servicii all-inclusive: opţiuni de terenuri libere, diverse pachete de materiale des folosite la construcţie, închiriere de utilaje şi consiliere din partea unui architect, a unui designer de interior, a unui inginer de construcţie şi a unui inginer de instalaţii atât pentru definitivarea planului casei, cât şi pentru supravegherea etapelor de construcţie. 
 
@@ -20,13 +21,11 @@
 *	preţul final al casei depinde de terenul ales, materialele folosite, utilajele inchiriate şi angajaţii care au ajutat pe parcurs
 
 
-###
-### 2.	SCHEMA CONCEPTUALA REALIZATĂ CU AJUTORUL ERD-ULUI
+## 2.	SCHEMA CONCEPTUALA REALIZATĂ CU AJUTORUL ERD-ULUI
 
 ![Image of Yaktocat](https://github.com/NBristena/prbd_firma-constructii/blob/master/erd.jpg)
 
 
-###
-### 3.	SISTEMUL CONCEPTUAL TRANSFORMAT ÎNTR-UN DESIGN LOGIC (MAPARE)
+## 3.	SISTEMUL CONCEPTUAL TRANSFORMAT ÎNTR-UN DESIGN LOGIC (MAPARE)
 
 ![Image of Yaktocat](https://github.com/NBristena/prbd_firma-constructii/blob/master/mapare.jpg)
